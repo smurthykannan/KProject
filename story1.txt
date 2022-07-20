@@ -1,1 +1,5 @@
 this is story1 file
+new line in story1
+new line3
+line5
+line6
